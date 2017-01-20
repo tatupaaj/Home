@@ -1,6 +1,6 @@
 # Home
 
-![](https://en.wikipedia.org/wiki/The_Silmarillion#/media/File:Silmarillion.png)
+![](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring#/media/File:The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_(2001)_theatrical_poster.jpg)
 
 ## Alaotsikko
 
