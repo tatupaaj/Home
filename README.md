@@ -1,6 +1,6 @@
 # Home
 
-![kuva](https://en.wikipedia.org/wiki/The_Silmarillion#/media/File:Silmarillion.png)
+![](https://en.wikipedia.org/wiki/The_Silmarillion#/media/File:Silmarillion.png)
 
 ## Alaotsikko
 
